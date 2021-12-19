@@ -9,6 +9,6 @@ This is a work in progress. A minimum usable product (MUP) will be ready in a fe
 - [ ] Org-mode support
 - [ ] Markdown support
 - [ ] Ignore front matter
-- [ ] Ignore link
+- [ ] Ignore links
 - [ ] Recursive directory scan
 - [ ] Display clusters of similar documents
